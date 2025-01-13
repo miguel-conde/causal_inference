@@ -4,3 +4,5 @@
 .Ruserdata
 causal_inference.Rproj
 *.html
+*.Rproj
+*.zip
