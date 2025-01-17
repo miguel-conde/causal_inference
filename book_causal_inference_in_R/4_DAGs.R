@@ -1,4 +1,5 @@
 library(ggdag)
+library(ggplot2)
 
 dagify(
   podcast ~ mood + humor + prepared,
